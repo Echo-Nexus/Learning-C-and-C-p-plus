@@ -1,0 +1,8 @@
+{
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+  "code-runner.executorMap": {
+    "c": "cd $dir && C:\\msys64\\ucrt64\\bin\\gcc.exe -o $fileNameWithoutExt.exe $fileName && .\\$fileNameWithoutExt.exe"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true
+}
